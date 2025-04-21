@@ -109,6 +109,8 @@ module.exports = {
   "prefix": "${config.prefix}",
   "ticketNumbers": ${config.ticketNumbers},
   "banner": "${config.banner}",
+"desc": "${config.desc}",
+"log": "${config.log",
   "sections": ${JSON.stringify(config.sections, null, 2)}
 };
 `.trim();
