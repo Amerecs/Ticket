@@ -4,6 +4,7 @@ module.exports = {
   "ticketNumbers": 1,
   "banner": "رابط انفو التكت",
   "desc": "وصف التكت"
+  "log": "ايدي روم لوق التكت",
   "sections": {
   "ticket1": {
     "name": "اسم القسم",
